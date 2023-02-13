@@ -6,4 +6,12 @@ fun main(args : Array<String>) {
 
     println("Area of circle of radius ${r} is ${area}")
 
+    var name : String = "Kotlin Language"
+    var version : Double = 1.8
+    var javaApplicable : Boolean = true
+    var releasedYear : Int = 2016
+    var firstAlphabate : Char = 'K'
+    var message : String = "Hello Kotlin"
+
+
 }

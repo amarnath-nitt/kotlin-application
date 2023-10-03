@@ -3,3 +3,7 @@
 
 kotlin-application.iml
 
+.idea/
+
+production/
+production

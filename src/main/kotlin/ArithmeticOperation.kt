@@ -8,9 +8,9 @@ fun main(args: Array<String>) {
     println(i.toFloat() / j) // 3.75
 
     if(i > j){
-       println("${i} is greater than ${j}")
+        println("${i} is greater than ${j}")
     }
     else{
-       println("${j} is greater than ${i}")
+        println("${j} is greater than ${i}")
     }
 }
